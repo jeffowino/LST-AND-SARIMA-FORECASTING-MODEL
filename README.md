@@ -13,7 +13,7 @@ Handling Multivariate Time Series: LSTM models can easily handle multivariate ti
 
 
 
-Based on the dataset you provided, LSTM could be a suitable choice for several reasons:
+Based on our dataset , LSTM could be a suitable choice for several reasons:
 
 Temporal Dependencies: LSTM models are effective in capturing temporal dependencies in sequential data. In your dataset, the "month" column represents time, and the "finished_clients" and "active_clients" columns are likely influenced by past observations. LSTM can leverage the historical patterns and dependencies to make accurate predictions.
 
